@@ -131,6 +131,13 @@
                         android:text="R$ 17,90"
                         android:textColor="@color/primary_pink"
                         android:textStyle="bold" />
+
+                    <Button
+                        android:backgroundTint="@color/primary_pink"
+                        android:id="@+id/button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Comprar" />
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -171,10 +178,10 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:gravity="center"
                         android:text="Fresco e com pedaços da fruta."
                         android:textColor="#757575"
-                        android:textSize="12sp"
-                        android:gravity="center" />
+                        android:textSize="12sp" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -183,6 +190,14 @@
                         android:text="R$ 16,90"
                         android:textColor="@color/primary_pink"
                         android:textStyle="bold" />
+
+                    <Button
+                        android:id="@+id/button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/primary_pink"
+                        android:text="Comprar" />
+
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -236,6 +251,13 @@
                         android:text="R$ 15,90"
                         android:textColor="@color/primary_pink"
                         android:textStyle="bold" />
+
+                    <Button
+                        android:backgroundTint="@color/primary_pink"
+                        android:id="@+id/button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Comprar" />
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -288,6 +310,13 @@
                         android:text="R$ 19,90"
                         android:textColor="@color/primary_pink"
                         android:textStyle="bold" />
+
+                    <Button
+                        android:backgroundTint="@color/primary_pink"
+                        android:id="@+id/button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Comprar" />
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
